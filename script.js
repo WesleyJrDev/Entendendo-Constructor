@@ -16,4 +16,4 @@ let Wesley = new Aluno ("Wesley Damazio dos Santos Junior", "Masculino", 35, "Ps
 
 let Lara = new Aluno ("Lara Dias Damazio", "Feminino", 13, "Veterinária", 10);
 
-console.log( Wesley.Apresentar());
+console.log( Wesley.Apresentar())
